@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "usxT8kNXjENnO+2lPZ0q7twosS0/rNKq9Vxwiz8SDwD9b6SfflPEfGFsY+5syVcQbVV6zBTpqHKF+xHqsLSa8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shermin\\Documents\\My papers\\recursive code\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shermin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512",
+    "C:\\Users\\Shermin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Shermin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Shermin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,43 @@
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\RhinoCommon.dll
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\RhinoCommon.xml
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Rhino.UI.dll
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Rhino_DotNet.dll
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Eto.dll
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Eto.pdb
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Eto.xml
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Interop.Rhino.dll
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Interop.Rhino.dll
+C:\Users\sherk\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.ResolveComReference.cache
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\RhinoCommon.dll
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\RhinoCommon.xml
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Interop.Rhino.dll
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Interop.Rhino.dll
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.ResolveComReference.cache
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\proposal\code new\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
